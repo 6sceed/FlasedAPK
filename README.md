@@ -11,9 +11,8 @@ FLASED is a mobile flashcard app built for active recall. Generate flashcards fr
 * **BYOK (Bring Your Own Key)** — use your own Gemini or OpenRouter API key
 * Gemini API recommended
 * First-letter mnemonic codes
-* Adaptive review: **Again, Hard, Easy**
 * Organize cards by Subjects and Modules
-* Search, edit, add, and delete cards
+* Edit, add, and delete cards
 * Track AI API usage
 * Dark-themed mobile interface
 
