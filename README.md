@@ -40,7 +40,7 @@ Get your API keys:
 
 ```bash
 git clone https://github.com/6sceed/Flased
-cd Flased
+cd src
 npm install
 npx expo start
 ```
